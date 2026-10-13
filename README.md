@@ -30,20 +30,6 @@ ice-cream_website/
 └── README.md
 ```
 
-## 🚀 Getting Started
-
-Follow these steps to run the project on your computer.
-
-1. Clone the repository:
-
-   ```bash
-   https://pallvikri.github.io/ice-cream_website/
-   ```
-
-2. Open the downloaded project folder.
-3. Open `index.html` in your web browser.
-4. Enjoy exploring the website!
-
 ## 🎯 Project Objective
 
 This project was developed to practise frontend web development, improve UI design skills, and create an attractive single-page website using HTML, CSS, and Bootstrap.
