@@ -16,9 +16,8 @@ A delightful single-page ice cream website featuring delicious flavours, attract
 ## 🛠️ Tech Stack
 
 - HTML5
-- CSS3
-- Bootstrap 5.3.8
-- Custom CSS
+- CSS
+- Bootstrap
 
 ## 📂 Project Structure
 
