@@ -37,7 +37,7 @@ Follow these steps to run the project on your computer.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pallvikri/ice-cream_website.git
+   https://pallvikri.github.io/ice-cream_website/
    ```
 
 2. Open the downloaded project folder.
