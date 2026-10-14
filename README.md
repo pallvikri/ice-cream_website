@@ -40,6 +40,7 @@ I am a BCA student at Dr. Shyama Prasad Mukherjee University, Ranchi, passionate
 ## 📬 Connect With Me
 
 - **GitHub:** [pallvikri](https://github.com/pallvikri)
+- **LinkedIn:** [Pallvi Kumari](https://www.linkedin.com/in/pallvi-kumari-ba484534b)
 - **view project:** [view project](https://pallvikri.github.io/ice-cream_website/)
 
 ---
